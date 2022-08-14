@@ -1,50 +1,50 @@
-  475  winpy python app.py
-  476  wintpy python app.py
-  477  winpty python app.py
-  478  winpty python app.py
-  479  conda activate dev
-  480  conda list pandas
-  481  conda list jupyterlab
-  482  python -m ipykernel install --user --name dev --display-name "Python (dev)"
-  483  jupyter lab
-  484  notebook-dir=E:/
-  485  conda activate dev
-  486  conda activate dev
-  487  jupyter lab
-  488  cd e:
-  489  jupyter lab
-  490  cd e:
-  491  jupyter lab
-  492  cd e:
-  493  jupyter lab
-  494  conda activate dev
-  495  jupyter lab
-  496  conda activate dev
-  497  cd e:
-  498  jupyter lab
-  499  cd e:
-  500  jupyter lab
+  462  conda activate dev
+  463  jupyter lab
+  464  cd e:
+  465  jupyter lab
+  466  cd e:
+  467  jupyter lab
+  468  cd e:
+  469  jupyter lab
+  470  conda activate dev
+  471  jupyter lab
+  472  conda activate dev
+  473  cd e:
+  474  jupyter lab
+  475  cd e:
+  476  jupyter lab
+  477  cd e:
+  478  jupyter lab
+  479  ls
+  480  cd fintech_material/
+  481  l
+  482  ls
+  483  cd Module3
+  484  ls
+  485  cd module_3_challenge/
+  486  git clone https://github.com/yutakadayo/module_3_challenge.git
+  487  git status
+  488  cd module_3_challenge/
+  489  git status
+  490  git status
+  491  git add ..
+  492  git add .
+  493  git status
+  494  git status
+  495  git add .
+  496  git status
+  497  git commit -m"working on arbitrage spread analysis"
+  498  git push
+  499  git status
+  500  history 50 > terminal_history.txt
   501  cd e:
   502  jupyter lab
   503  ls
-  504  cd fintech_material/
-  505  l
-  506  ls
-  507  cd Module3
-  508  ls
-  509  cd module_3_challenge/
-  510  git clone https://github.com/yutakadayo/module_3_challenge.git
-  511  git status
-  512  cd module_3_challenge/
-  513  git status
-  514  git status
-  515  git add ..
-  516  git add .
-  517  git status
-  518  git status
-  519  git add .
-  520  git status
-  521  git commit -m"working on arbitrage spread analysis"
-  522  git push
-  523  git status
-  524  history 50 > terminal_history.txt
+  504  cd fintech_material/Module3/module_3_challenge/module_3_challenge/
+  505  ls
+  506  git status
+  507  git add .
+  508  git status
+  509  git commit -m"finished analysis, created summary, and modified README.md"
+  510  git push
+  511  history 50 > terminal_history.txt 
