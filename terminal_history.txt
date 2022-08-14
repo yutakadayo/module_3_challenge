@@ -1,0 +1,50 @@
+  475  winpy python app.py
+  476  wintpy python app.py
+  477  winpty python app.py
+  478  winpty python app.py
+  479  conda activate dev
+  480  conda list pandas
+  481  conda list jupyterlab
+  482  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  483  jupyter lab
+  484  notebook-dir=E:/
+  485  conda activate dev
+  486  conda activate dev
+  487  jupyter lab
+  488  cd e:
+  489  jupyter lab
+  490  cd e:
+  491  jupyter lab
+  492  cd e:
+  493  jupyter lab
+  494  conda activate dev
+  495  jupyter lab
+  496  conda activate dev
+  497  cd e:
+  498  jupyter lab
+  499  cd e:
+  500  jupyter lab
+  501  cd e:
+  502  jupyter lab
+  503  ls
+  504  cd fintech_material/
+  505  l
+  506  ls
+  507  cd Module3
+  508  ls
+  509  cd module_3_challenge/
+  510  git clone https://github.com/yutakadayo/module_3_challenge.git
+  511  git status
+  512  cd module_3_challenge/
+  513  git status
+  514  git status
+  515  git add ..
+  516  git add .
+  517  git status
+  518  git status
+  519  git add .
+  520  git status
+  521  git commit -m"working on arbitrage spread analysis"
+  522  git push
+  523  git status
+  524  history 50 > terminal_history.txt
